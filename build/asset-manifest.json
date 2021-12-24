@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f795585.chunk.css",
+    "main.js": "/static/js/main.6ab62931.chunk.js",
+    "main.js.map": "/static/js/main.6ab62931.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f54f0fcb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f54f0fcb.js.map",
+    "static/css/2.c1256375.chunk.css": "/static/css/2.c1256375.chunk.css",
+    "static/js/2.209ee5e9.chunk.js": "/static/js/2.209ee5e9.chunk.js",
+    "static/js/2.209ee5e9.chunk.js.map": "/static/js/2.209ee5e9.chunk.js.map",
+    "static/js/3.500b6dcc.chunk.js": "/static/js/3.500b6dcc.chunk.js",
+    "static/js/3.500b6dcc.chunk.js.map": "/static/js/3.500b6dcc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.6f795585.chunk.css.map": "/static/css/main.6f795585.chunk.css.map",
+    "static/js/2.209ee5e9.chunk.js.LICENSE.txt": "/static/js/2.209ee5e9.chunk.js.LICENSE.txt",
+    "static/media/Technoloy.e7227889.jpg": "/static/media/Technoloy.e7227889.jpg",
+    "static/media/WebDesignBooks.08030672.JPG": "/static/media/WebDesignBooks.08030672.JPG",
+    "static/media/about-1.e482590b.gif": "/static/media/about-1.e482590b.gif",
+    "static/media/about-2.8b490ca4.gif": "/static/media/about-2.8b490ca4.gif",
+    "static/media/css.26eaf8ce.png": "/static/media/css.26eaf8ce.png",
+    "static/media/javascript.c54fa24f.png": "/static/media/javascript.c54fa24f.png",
+    "static/media/privacy-policy1.71274c83.png": "/static/media/privacy-policy1.71274c83.png",
+    "static/media/slider-1.7baac2bc.jpg": "/static/media/slider-1.7baac2bc.jpg",
+    "static/media/slider-2.d9c45891.jpg": "/static/media/slider-2.d9c45891.jpg",
+    "static/media/slider-3.a0afa6dd.jpg": "/static/media/slider-3.a0afa6dd.jpg",
+    "static/media/slider-4.4a0359cc.jpg": "/static/media/slider-4.4a0359cc.jpg",
+    "static/media/termify-contract.44b9a79c.svg": "/static/media/termify-contract.44b9a79c.svg",
+    "static/media/termify-privacy.5c0833a4.svg": "/static/media/termify-privacy.5c0833a4.svg",
+    "static/media/termify-use-privacy.6f0f0699.svg": "/static/media/termify-use-privacy.6f0f0699.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f54f0fcb.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.209ee5e9.chunk.js",
+    "static/css/main.6f795585.chunk.css",
+    "static/js/main.6ab62931.chunk.js"
+  ]
+}
